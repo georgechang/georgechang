@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**georgechang/georgechang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm George and I do stuff with code.
 
-Here are some ideas to get you started:
+Things I ❤:
+- ⭕ Sitecore
+- ☁ Azure
+- 💻 Microsoft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I'm 🔬:
+- ☸ Kubernetes
+- 🧨Prometheus
+- 🛑 Envoy
+- 💨 Go
+
+Find out what my brain is up to on Twitter at [@georgechang](https://twitter.com/georgechang) or my blog at [georgechang.io](https://georgechang.io/).
